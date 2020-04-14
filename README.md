@@ -23,6 +23,7 @@ Table of contents
 - [如何解决推荐系统工程难题——深度学习推荐模型线上serving？ - 知乎](https://zhuanlan.zhihu.com/p/77664408)
 - [揭开YouTube深度推荐系统模型Serving之谜 - 知乎](https://zhuanlan.zhihu.com/p/61827629)
 
+
 ## 实时工程
 - [在线学习在爱奇艺信息流推荐业务中的探索与实践 - InfoQ](https://www.infoq.cn/article/lTHcDaZelZgC639P1P5q)
 - [浅谈流式模型训练体系 - 知乎](https://zhuanlan.zhihu.com/p/89512081)
@@ -38,12 +39,14 @@ Table of contents
 - [天下武功，唯快不破，论推荐系统的「 实时性」 - 知乎](https://zhuanlan.zhihu.com/p/74813776)
 - [如何增强推荐系统模型更新的「实时性」？ - 知乎](https://zhuanlan.zhihu.com/p/75597761)
 
+
 ## 用户行为兴趣
 - [CTR预估问题没有“银弹”，比模型结构更重要的是什么？ - InfoQ](https://www.infoq.cn/article/Mfv1ZThAsPvrUSN*C69V)
 - [详解阿里之Deep Interest Evolution Network(AAAI 2019) - 知乎](https://zhuanlan.zhihu.com/p/50758485)
 - [阿里Deep Session Interest Network解读 - 知乎](https://zhuanlan.zhihu.com/p/71695849)
 - [阿里推荐算法（MIND）：基于动态路由的用户多兴趣网络 - 知乎](https://zhuanlan.zhihu.com/p/76495890)
 - [如何刻画用户的多样兴趣——MIND network阅读笔记 - 知乎](https://zhuanlan.zhihu.com/p/68897114)
+
 
 ## 多任务建模
 - [阿里CVR预估模型之ESMM - 知乎](https://zhuanlan.zhihu.com/p/57481330)
@@ -54,6 +57,7 @@ Table of contents
 - [多任务学习模型详解：Multi-gate Mixture-of-Experts（MMoE ，Google，KDD2018）](https://mp.weixin.qq.com/s?__biz=MzUzMTgyNjUwOA==&mid=2247483916&idx=1&sn=c17bb53ed442751a91ef413de651bb71&chksm=fabdd02fcdca593996f173a68f34206e3a2432677f3eaa65ae05f56811ac40f152685d6ef2af&token=219959589&lang=zh_CN#rd)
 - [稀疏共享：当多任务学习遇见彩票假设 - 知乎](https://zhuanlan.zhihu.com/p/93830096)
 
+
 ## 召回模型
 - [推荐召回算法之深度召回模型串讲 - 知乎](https://zhuanlan.zhihu.com/p/63343894)
 - [深入理解推荐系统：召回 - 知乎](https://zhuanlan.zhihu.com/p/115690499)
@@ -62,7 +66,9 @@ Table of contents
 - [DSSM：深度语义匹配模型（及其变体CLSM、LSTM-DSSM） - 郭耀华 - 博客园](https://www.cnblogs.com/guoyaohua/p/9229190.html)
 - [推荐系统与CTR预估， 基于深度学习（一):召回思路及模型串讲 - Nick's Tech Blog](http://fanding.xyz/2018/05/01/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%8ECTR%E9%A2%84%E4%BC%B0,%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E4%B8%80-%E5%8F%AC%E5%9B%9E%E6%80%9D%E8%B7%AF%E5%8F%8A%E6%A8%A1%E5%9E%8B%E4%B8%B2%E8%AE%B2/)
 
+
 ## 业界实践
+- [镶嵌在互联网技术上的明珠：漫谈深度学习时代点击率预估技术进展 - 知乎](https://zhuanlan.zhihu.com/p/54822778)
 - [揭秘微信"看一看"是如何为你推荐的](https://mp.weixin.qq.com/s/nFThC8hcA1wWNb_nskiSRg)
 - [热点挖掘技术在微信看一看中的应用](https://mp.weixin.qq.com/s/oMNy-g2DxUnsGErefQBkyg)
 - [深度学习在省钱快报推荐排序中的应用与实践 - InfoQ](https://www.infoq.cn/article/S442HaOtfMk72vgikZZP)
@@ -76,6 +82,7 @@ Table of contents
 - [推荐系统遇上深度学习(八十一)-[阿里]DMR：Matching和Ranking相结合的点击率预估模型 - 简书](https://www.jianshu.com/p/60eed27e06d4)
 - [最新边信息推荐系统综述 | Survey on Recommendations with Side Information](https://mp.weixin.qq.com/s/3DzZ5kG4vQ5OJhQ8Fly25A)
 
+
 ## 框架相关
 - [机器学习平台 Goblin 的实践 - 知乎](https://zhuanlan.zhihu.com/p/129327848)
 - [机器学习框架上的一些实践 - 知乎](https://zhuanlan.zhihu.com/p/76541337)
@@ -86,10 +93,12 @@ Table of contents
 - [ps-lite代码解析 - 知乎](https://zhuanlan.zhihu.com/p/60584612)
 - [分布式训练的方案和效率对比 - 知乎](https://zhuanlan.zhihu.com/p/50116885)
 
+
 ## 流式系统
 - [评:Streaming System(简直炸裂,强势安利) - 知乎](https://zhuanlan.zhihu.com/p/43301661)
 - [端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作) - 知乎](https://zhuanlan.zhihu.com/p/77677075)
 - [pythonbooks/Streaming Systems](https://github.com/iamseancheney/pythonbooks/blob/master/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
+
 
 ## C++
 - [C++ 编译初步 | 吴良超的学习笔记](http://wulc.me/2018/11/24/C++%20%E7%BC%96%E8%AF%91%E5%88%9D%E6%AD%A5/)
@@ -97,6 +106,7 @@ Table of contents
 - [makefile 文件的编写 - kzangv - 博客园](https://www.cnblogs.com/kzang/articles/2679933.html)
 - [C++ 基础之引用计数 - 知乎](https://zhuanlan.zhihu.com/p/104326499)
 - [blade-build/user_manual.md at master · chen3feng/blade-build](https://github.com/chen3feng/blade-build/blob/master/doc/zh_CN/user_manual.md)
+
 
 ## NLP
 - [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
