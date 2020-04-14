@@ -4,11 +4,19 @@ Table of contents
 <!--ts-->
   * [模型工程](#模型工程)
   * [实时工程](#实时工程)
+  * [用户行为建模](#用户行为兴趣)
+  * [多任务建模](#多任务建模)
+  * [召回模型](#召回模型)
+  * [业务实践](#业界实践)
+  * [框架相关](#框架相关)
+  * [流式系统](#流式系统)
+  * [C++](#C++)
+  * [NLP](#NLP)
+  
 <!--te-->
 
 
 ## 模型工程
-
 - [使用tensorflow c++ api构建线上预测服务 - 篇3 - J.P.Liu's Blog](https://mathmach.com/832a0a1e/)
 - [基于TensorFlow Serving的深度学习在线预估 - 美团技术团队](https://tech.meituan.com/2018/10/11/tfserving-improve.html)
 - [从阿里的User Interest Center看模型线上实时serving方法 - 知乎](https://zhuanlan.zhihu.com/p/111929212)
@@ -66,6 +74,7 @@ Table of contents
 - [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/YZtKh5-xxhDwLcOJVDvqtw)
 - [推荐系统遇上深度学习(八十二)-[阿里]可视化分析点击率预估模型 - 简书](https://www.jianshu.com/p/7c3344d79405)
 - [推荐系统遇上深度学习(八十一)-[阿里]DMR：Matching和Ranking相结合的点击率预估模型 - 简书](https://www.jianshu.com/p/60eed27e06d4)
+- [最新边信息推荐系统综述 | Survey on Recommendations with Side Information](https://mp.weixin.qq.com/s/3DzZ5kG4vQ5OJhQ8Fly25A)
 
 ## 框架相关
 - [机器学习平台 Goblin 的实践 - 知乎](https://zhuanlan.zhihu.com/p/129327848)
@@ -88,3 +97,8 @@ Table of contents
 - [makefile 文件的编写 - kzangv - 博客园](https://www.cnblogs.com/kzang/articles/2679933.html)
 - [C++ 基础之引用计数 - 知乎](https://zhuanlan.zhihu.com/p/104326499)
 - [blade-build/user_manual.md at master · chen3feng/blade-build](https://github.com/chen3feng/blade-build/blob/master/doc/zh_CN/user_manual.md)
+
+## NLP
+- [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
+
+
