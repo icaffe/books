@@ -81,6 +81,7 @@ Table of contents
 - [推荐系统遇上深度学习(八十二)-[阿里]可视化分析点击率预估模型 - 简书](https://www.jianshu.com/p/7c3344d79405)
 - [推荐系统遇上深度学习(八十一)-[阿里]DMR：Matching和Ranking相结合的点击率预估模型 - 简书](https://www.jianshu.com/p/60eed27e06d4)
 - [最新边信息推荐系统综述 | Survey on Recommendations with Side Information](https://mp.weixin.qq.com/s/3DzZ5kG4vQ5OJhQ8Fly25A)
+- [深入浅出排序学习：写给程序员的算法系统开发实践 - 美团技术团队](https://tech.meituan.com/2018/12/20/head-in-l2r.html)
 
 
 ## 框架相关
