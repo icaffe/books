@@ -111,5 +111,6 @@ Table of contents
 
 ## NLP
 - [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
+- [Transformer 在美团搜索排序中的实践 - 美团技术团队](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 
 
