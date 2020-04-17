@@ -10,6 +10,7 @@ Table of contents
   * [业界实践](#业界实践)
   * [框架相关](#框架相关)
   * [流式系统](#流式系统)
+  * [Embedding](#Embedding)
   * [C++](#C++)
   * [NLP](#NLP)
   
@@ -99,6 +100,9 @@ Table of contents
 - [评:Streaming System(简直炸裂,强势安利) - 知乎](https://zhuanlan.zhihu.com/p/43301661)
 - [端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作) - 知乎](https://zhuanlan.zhihu.com/p/77677075)
 - [pythonbooks/Streaming Systems](https://github.com/iamseancheney/pythonbooks/blob/master/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
+
+## Embedding
+- [图表示学习Graph Embedding综述](https://mp.weixin.qq.com/s/q1QsSplzZ_TMf0wvZ19hBg)
 
 
 ## C++
