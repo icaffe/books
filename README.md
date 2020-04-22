@@ -83,6 +83,8 @@ Table of contents
 - [推荐系统遇上深度学习(八十一)-[阿里]DMR：Matching和Ranking相结合的点击率预估模型 - 简书](https://www.jianshu.com/p/60eed27e06d4)
 - [最新边信息推荐系统综述 | Survey on Recommendations with Side Information](https://mp.weixin.qq.com/s/3DzZ5kG4vQ5OJhQ8Fly25A)
 - [深入浅出排序学习：写给程序员的算法系统开发实践 - 美团技术团队](https://tech.meituan.com/2018/12/20/head-in-l2r.html)
+- [WWW2020推荐系统论文合集(已分类整理)](https://mp.weixin.qq.com/s/pJM6HxTtp8p3J2O1c-lf3Q)
+- [谷歌最新双塔DNN召回模型——应用于YouTube大规模视频推荐场景 - 知乎](https://zhuanlan.zhihu.com/p/128988454)
 
 
 ## 框架相关
@@ -103,6 +105,7 @@ Table of contents
 
 ## Embedding
 - [图表示学习Graph Embedding综述](https://mp.weixin.qq.com/s/q1QsSplzZ_TMf0wvZ19hBg)
+- [Embedding技术在58同城推荐中的应用](https://mp.weixin.qq.com/s/8bP62cSUVFL38AesLSxqvQ)
 
 
 ## C++
@@ -116,5 +119,6 @@ Table of contents
 ## NLP
 - [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
 - [Transformer 在美团搜索排序中的实践 - 美团技术团队](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
+- [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/1LYyiDJBDKVgNjc7a1Qc4A)
 
 
