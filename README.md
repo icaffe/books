@@ -13,6 +13,7 @@ Table of contents
   * [Embedding](#Embedding)
   * [C++](#C++)
   * [NLP](#NLP)
+  * [基础知识](#基础知识)
   
 <!--te-->
 
@@ -121,4 +122,12 @@ Table of contents
 - [Transformer 在美团搜索排序中的实践 - 美团技术团队](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 - [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/1LYyiDJBDKVgNjc7a1Qc4A)
 
+## 基础知识
+- [频率学派和贝叶斯学派 - 知乎](https://zhuanlan.zhihu.com/p/54125819)
+- [贝叶斯学派与频率学派有何不同？ - 知乎](https://www.zhihu.com/question/20587681)
+- [如何通俗理解 beta 分布？ - 知乎](https://www.zhihu.com/question/30269898)
+- [CTR预估中的贝叶斯平滑方法（一）原理及实验介绍 - 笨兔勿应 - 博客园](https://www.cnblogs.com/bentuwuying/p/6389222.html)
+- [CTR预估中的贝叶斯平滑方法（二）参数估计和代码实现 - 笨兔勿应 - 博客园](https://www.cnblogs.com/bentuwuying/p/6498370.html)
+- [转化率（CTR）预测的贝叶斯平滑 - 小平子的专栏 - CSDN博客](https://blog.csdn.net/jinping_shi/article/details/78334362)
+- [ctr平滑 – d0evi1的博客](http://d0evi1.com/ctr-smooth/)
 
