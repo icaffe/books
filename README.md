@@ -11,7 +11,8 @@ Table of contents
   * [框架相关](#框架相关)
   * [流式系统](#流式系统)
   * [Embedding](#Embedding)
-  * [C++](#C++)
+  * [C++](#CPP)
+  * [Java](#Java)
   * [NLP](#NLP)
   * [基础知识](#基础知识)
 <!--te-->
@@ -111,12 +112,15 @@ Table of contents
 - [ ] [全面理解PinSage - 知乎](https://zhuanlan.zhihu.com/p/133739758)
 
 
-## C++
+## CPP
 - [ ] [C++ 编译初步 | 吴良超的学习笔记](http://wulc.me/2018/11/24/C++%20%E7%BC%96%E8%AF%91%E5%88%9D%E6%AD%A5/)
 - [ ] [cmake学习记录 - 知乎](https://zhuanlan.zhihu.com/p/38736401)
 - [ ] [makefile 文件的编写 - kzangv - 博客园](https://www.cnblogs.com/kzang/articles/2679933.html)
 - [ ] [C++ 基础之引用计数 - 知乎](https://zhuanlan.zhihu.com/p/104326499)
 - [ ] [blade-build/user_manual.md at master · chen3feng/blade-build](https://github.com/chen3feng/blade-build/blob/master/doc/zh_CN/user_manual.md)
+
+## Java
+- [ ] [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 
 ## NLP
