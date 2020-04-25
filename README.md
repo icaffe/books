@@ -40,6 +40,7 @@ Table of contents
 - [实时个性化推荐介绍](https://mp.weixin.qq.com/s/UxVTdyH20xO0x0Lm0eTF1A)
 - [天下武功，唯快不破，论推荐系统的「 实时性」 - 知乎](https://zhuanlan.zhihu.com/p/74813776)
 - [如何增强推荐系统模型更新的「实时性」？ - 知乎](https://zhuanlan.zhihu.com/p/75597761)
+- [Apache Flink在滴滴的应用与实践](https://mp.weixin.qq.com/s/xftJ8S3qbXgK1JSeOllcfg)
 
 
 ## 用户行为兴趣
@@ -86,6 +87,7 @@ Table of contents
 - [深入浅出排序学习：写给程序员的算法系统开发实践 - 美团技术团队](https://tech.meituan.com/2018/12/20/head-in-l2r.html)
 - [WWW2020推荐系统论文合集(已分类整理)](https://mp.weixin.qq.com/s/pJM6HxTtp8p3J2O1c-lf3Q)
 - [谷歌最新双塔DNN召回模型——应用于YouTube大规模视频推荐场景 - 知乎](https://zhuanlan.zhihu.com/p/128988454)
+- [DLP-KDD全部文章及资源，覆盖GNN、Graph Emb、Transformer等业界前沿领域 - 知乎](https://zhuanlan.zhihu.com/p/135919198)
 
 
 ## 框架相关
@@ -107,6 +109,7 @@ Table of contents
 ## Embedding
 - [图表示学习Graph Embedding综述](https://mp.weixin.qq.com/s/q1QsSplzZ_TMf0wvZ19hBg)
 - [Embedding技术在58同城推荐中的应用](https://mp.weixin.qq.com/s/8bP62cSUVFL38AesLSxqvQ)
+- [全面理解PinSage - 知乎](https://zhuanlan.zhihu.com/p/133739758)
 
 
 ## C++
