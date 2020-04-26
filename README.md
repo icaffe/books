@@ -121,6 +121,7 @@ Table of contents
 
 ## Java
 - [ ] [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+- [ ] [doocs/advanced-java: 进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等](https://github.com/doocs/advanced-java)
 
 
 ## NLP
