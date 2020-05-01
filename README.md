@@ -92,6 +92,7 @@ Table of contents
 
 ## 框架相关
 - [ ] [机器学习平台 Goblin 的实践 - 知乎](https://zhuanlan.zhihu.com/p/129327848)
+- [ ] [机器学习平台在Kubernetes上的实践 - 知乎](https://zhuanlan.zhihu.com/p/137678661)
 - [ ] [机器学习框架上的一些实践 - 知乎](https://zhuanlan.zhihu.com/p/76541337)
 - [ ] [TensorFlow做Sparse Machine Learning - 知乎](https://zhuanlan.zhihu.com/p/50793463)
 - [ ] [极简入门TensorFlow C++源码 - 知乎](https://zhuanlan.zhihu.com/p/78503581)
