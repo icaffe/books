@@ -2,6 +2,7 @@ Table of contents
 =================
 
 <!--ts-->
+  * [广告业务](#广告业务)
   * [模型工程](#模型工程)
   * [实时工程](#实时工程)
   * [用户行为建模](#用户行为兴趣)
@@ -17,6 +18,17 @@ Table of contents
   * [基础知识](#基础知识)
 <!--te-->
 
+## 广告业务
+
+- [x] [谷歌的广告业务是如何赚钱的？郄小虎Tiger - 知乎](https://www.zhihu.com/question/32221970/answer/119083085)
+- [ ] [搜索引擎公司是如何利用博弈论进行广告位拍卖的？ - 知乎](https://www.zhihu.com/question/57409967)
+- [ ] [互联网广告拍卖机制设计](https://xinsong.github.io/2013/08/16/ad_auction_theory/)
+- [ ] [互联网广告拍卖的数学描述及最优拍卖机制设计 - 掘金](https://juejin.im/post/5e4e0cb7518825494f7df389)
+- [ ] [从央视到谷歌：聊一聊竞价广告的机制设计 | 爱范儿](https://www.ifanr.com/1061230)
+- [ ] [为什么 Google 的搜索广告拍卖采用 GSP 机制，而不是 VCG 机制？ - 知乎](https://www.zhihu.com/question/30471881)
+- [ ] [广告拍卖机制与点击率预估概述_人工智能_frankie110的专栏-CSDN博客](https://blog.csdn.net/frankie110/article/details/50209881)
+- [ ] [谈谈广告平台的竞价原理：GFP,GSP,VCG - 知乎](https://zhuanlan.zhihu.com/p/20694813)
+- [ ] [GSP — The Cinderella of Mechanism Design](https://arxiv.org/pdf/1701.05946.pdf)
 
 ## 模型工程
 - [x] [使用tensorflow c++ api构建线上预测服务 - 篇3 - J.P.Liu's Blog](https://mathmach.com/832a0a1e/)
