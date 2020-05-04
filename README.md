@@ -79,6 +79,7 @@ Table of contents
 - [ ] [深度学习在花椒直播中的应用——推荐系统冷启动算法 - 掘金](https://juejin.im/post/5e7974a2e51d45271515850f)
 - [ ] [算法调研-微信看一看Embedding - 知乎](https://zhuanlan.zhihu.com/p/102918124)
 - [ ] [广告CTR预估中用户行为学习和记忆建模](https://mp.weixin.qq.com/s/xDjO1yhOm57ZfuRofCf0Uw)
+- [ ] [增加User Memory Embedding的深度点击率预估模型 – Semocean](http://www.semocean.com/%e5%a2%9e%e5%8a%a0user-memory-embedding%e7%9a%84%e6%b7%b1%e5%ba%a6%e7%82%b9%e5%87%bb%e7%8e%87%e9%a2%84%e4%bc%b0%e6%a8%a1%e5%9e%8b/)
 - [ ] [WWW 2020关于深度推荐系统与CTR预估相关的论文](https://mp.weixin.qq.com/s/KITQYRFH6SD_2Y-f-2pyJA)
 - [ ] [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/YZtKh5-xxhDwLcOJVDvqtw)
 - [ ] [推荐系统遇上深度学习(八十二)-[阿里]可视化分析点击率预估模型 - 简书](https://www.jianshu.com/p/7c3344d79405)
