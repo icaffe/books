@@ -10,7 +10,7 @@ Table of contents
   * [召回模型](#召回模型)
   * [业界实践](#业界实践)
   * [框架相关](#框架相关)
-  * [流式系统](#流式系统)
+  * [Flink 流式系统](#Flink 流式系统)
   * [Embedding](#Embedding)
   * [C++](#CPP)
   * [Java](#Java)
@@ -115,7 +115,8 @@ Table of contents
 - [ ] [分布式训练的方案和效率对比 - 知乎](https://zhuanlan.zhihu.com/p/50116885)
 
 
-## 流式系统
+## Flink 流式系统
+- [ ] [zhisheng17/flink-learning 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容](https://github.com/zhisheng17/flink-learning)
 - [ ] [评:Streaming System(简直炸裂,强势安利) - 知乎](https://zhuanlan.zhihu.com/p/43301661)
 - [ ] [端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作) - 知乎](https://zhuanlan.zhihu.com/p/77677075)
 - [ ] [pythonbooks/Streaming Systems](https://github.com/iamseancheney/pythonbooks/blob/master/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
