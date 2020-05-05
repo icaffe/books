@@ -103,6 +103,11 @@ Table of contents
 - [ ] [WWW2020推荐系统论文合集(已分类整理)](https://mp.weixin.qq.com/s/pJM6HxTtp8p3J2O1c-lf3Q)
 - [ ] [谷歌最新双塔DNN召回模型——应用于YouTube大规模视频推荐场景 - 知乎](https://zhuanlan.zhihu.com/p/128988454)
 - [ ] [DLP-KDD全部文章及资源，覆盖GNN、Graph Emb、Transformer等业界前沿领域 - 知乎](https://zhuanlan.zhihu.com/p/135919198)
+- [ ] [谈谈推荐系统中的用户行为序列建模 - 知乎](https://zhuanlan.zhihu.com/p/138136777)
+- [ ] [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/KSW47hbNLaHTw9Ib0wMO8g)
+- [ ] [推荐系统的图方法 - 知乎](https://zhuanlan.zhihu.com/p/137223381)
+- [ ] [KDD 19 | DGL教程：Recommender System with GNN](https://mp.weixin.qq.com/s/zYmT_pOOx8xt4Vf2HbOcyw)
+
 
 
 ## 框架相关
