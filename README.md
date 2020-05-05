@@ -135,9 +135,9 @@ Table of contents
 - [ ] [blade-build/user_manual.md at master · chen3feng/blade-build](https://github.com/chen3feng/blade-build/blob/master/doc/zh_CN/user_manual.md)
 
 ## Java
-- [ ] [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+- [ ] [Snailclimb/JavaGuide 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)
 - [ ] [doocs/advanced-java: 进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等](https://github.com/doocs/advanced-java)
-
+- [ ] [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 ## NLP
 - [ ] [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
