@@ -12,9 +12,10 @@ Table of contents
   * [框架相关](#框架相关)
   * [Flink 流式系统](#Flink-流式系统)
   * [Embedding](#Embedding)
+  * [NLP](#NLP)
   * [C++](#CPP)
   * [Java](#Java)
-  * [NLP](#NLP)
+  * [算法编程](#算法编程)
   * [基础知识](#基础知识)
 <!--te-->
 
@@ -29,6 +30,7 @@ Table of contents
 - [ ] [广告拍卖机制与点击率预估概述_人工智能_frankie110的专栏-CSDN博客](https://blog.csdn.net/frankie110/article/details/50209881)
 - [ ] [谈谈广告平台的竞价原理：GFP,GSP,VCG - 知乎](https://zhuanlan.zhihu.com/p/20694813)
 - [ ] [GSP — The Cinderella of Mechanism Design](https://arxiv.org/pdf/1701.05946.pdf)
+
 
 ## 模型工程
 - [x] [使用tensorflow c++ api构建线上预测服务 - 篇3 - J.P.Liu's Blog](https://mathmach.com/832a0a1e/)
@@ -121,10 +123,17 @@ Table of contents
 - [ ] [端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作) - 知乎](https://zhuanlan.zhihu.com/p/77677075)
 - [ ] [pythonbooks/Streaming Systems](https://github.com/iamseancheney/pythonbooks/blob/master/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
 
+
 ## Embedding
 - [ ] [图表示学习Graph Embedding综述](https://mp.weixin.qq.com/s/q1QsSplzZ_TMf0wvZ19hBg)
 - [ ] [Embedding技术在58同城推荐中的应用](https://mp.weixin.qq.com/s/8bP62cSUVFL38AesLSxqvQ)
 - [ ] [全面理解PinSage - 知乎](https://zhuanlan.zhihu.com/p/133739758)
+
+
+## NLP
+- [ ] [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
+- [ ] [Transformer 在美团搜索排序中的实践 - 美团技术团队](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
+- [ ] [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/1LYyiDJBDKVgNjc7a1Qc4A)
 
 
 ## CPP
@@ -134,16 +143,17 @@ Table of contents
 - [ ] [C++ 基础之引用计数 - 知乎](https://zhuanlan.zhihu.com/p/104326499)
 - [ ] [blade-build/user_manual.md at master · chen3feng/blade-build](https://github.com/chen3feng/blade-build/blob/master/doc/zh_CN/user_manual.md)
 
+
 ## Java
 - [ ] [Snailclimb/JavaGuide 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)
 - [ ] [doocs/advanced-java: 进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等](https://github.com/doocs/advanced-java)
 - [ ] [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
 - [ ] [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
-## NLP
-- [ ] [Rethink深度学习中的Attention机制 - 知乎](https://zhuanlan.zhihu.com/p/125145283)
-- [ ] [Transformer 在美团搜索排序中的实践 - 美团技术团队](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
-- [ ] [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/1LYyiDJBDKVgNjc7a1Qc4A)
+
+## 算法编程
+
+- [ ] [labuladong/fucking-algorithm: 手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
 
 
 ## 基础知识
