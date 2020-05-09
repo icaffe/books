@@ -107,6 +107,7 @@ Table of contents
 - [ ] [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/KSW47hbNLaHTw9Ib0wMO8g)
 - [ ] [推荐系统的图方法 - 知乎](https://zhuanlan.zhihu.com/p/137223381)
 - [ ] [KDD 19 | DGL教程：Recommender System with GNN](https://mp.weixin.qq.com/s/zYmT_pOOx8xt4Vf2HbOcyw)
+- [ ] [召回算法实践总结 - 知乎](https://zhuanlan.zhihu.com/p/139256086)
 
 
 
