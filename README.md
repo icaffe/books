@@ -108,7 +108,8 @@ Table of contents
 - [ ] [推荐系统的图方法 - 知乎](https://zhuanlan.zhihu.com/p/137223381)
 - [ ] [KDD 19 | DGL教程：Recommender System with GNN](https://mp.weixin.qq.com/s/zYmT_pOOx8xt4Vf2HbOcyw)
 - [ ] [召回算法实践总结 - 知乎](https://zhuanlan.zhihu.com/p/139256086)
-
+- [ ] [搜索中的 Query 理解及应用](https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ)
+- [ ] [阿里飞猪“猜你喜欢”推荐排序实践](https://mp.weixin.qq.com/s/VkCio3oyoTJuiMHrpL1s4g)
 
 
 ## 框架相关
@@ -121,6 +122,7 @@ Table of contents
 - [ ] [大白话讲nnvm - 知乎](https://zhuanlan.zhihu.com/p/65464435)
 - [ ] [ps-lite代码解析 - 知乎](https://zhuanlan.zhihu.com/p/60584612)
 - [ ] [分布式训练的方案和效率对比 - 知乎](https://zhuanlan.zhihu.com/p/50116885)
+- [ ] [分布式机器学习框架与高维实时推荐系统](https://mp.weixin.qq.com/s/DIKEx3j_U6yXfeRpkM-f1Q)
 
 
 ## Flink 流式系统
