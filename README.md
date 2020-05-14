@@ -111,6 +111,7 @@ Table of contents
 - [ ] [召回算法实践总结 - 知乎](https://zhuanlan.zhihu.com/p/139256086)
 - [ ] [搜索中的 Query 理解及应用](https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ)
 - [ ] [阿里飞猪“猜你喜欢”推荐排序实践](https://mp.weixin.qq.com/s/VkCio3oyoTJuiMHrpL1s4g)
+- [ ] [推荐系统中稀疏特征Embedding的优化表示方法](https://mp.weixin.qq.com/s/mGjD2Cgen3eV1E_F8udVmg)
 
 
 ## 框架相关
