@@ -138,6 +138,7 @@ Table of contents
 - [ ] [图表示学习Graph Embedding综述](https://mp.weixin.qq.com/s/q1QsSplzZ_TMf0wvZ19hBg)
 - [ ] [Embedding技术在58同城推荐中的应用](https://mp.weixin.qq.com/s/8bP62cSUVFL38AesLSxqvQ)
 - [ ] [全面理解PinSage - 知乎](https://zhuanlan.zhihu.com/p/133739758)
+- [ ] [推荐系统 embedding 技术实践总结 - 知乎](https://zhuanlan.zhihu.com/p/143763320)
 
 
 ## NLP
